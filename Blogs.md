@@ -1,4 +1,7 @@
-# Here's the list of all the articles I wrote while working at Scaler Academy as a freelance Technical Content Writer. These articles are published on the official Scaler Topics Blog. Click on any article to open it on Scaler Topics.
+# Here's the list of all the articles written by me which are published on Scaler Topics official blog.
+
+**Note:** Click on any article to open it on Scaler Topics. Enjoy Reading.
+
 
 1. [Install Nodejs](https://www.scaler.com/topics/install-node-js/)
 
