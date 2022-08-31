@@ -38,3 +38,5 @@
 17. [Strings in Java](https://www.scaler.com/topics/java/string-in-java/)
 
 18. [`<label>` Tag in HTML](https://www.scaler.com/topics/labelr-tag-in-html/)
+
+19. [Tuple in DBMS](https://www.scaler.com/topics/tuple-in-dbms/)
