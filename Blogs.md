@@ -5,9 +5,9 @@
 
 1. [Install Nodejs](https://www.scaler.com/topics/install-node-js/)
 
-2. [Foreach loop in java](https://www.scaler.com/topics/for-each-loop-in-java/)
+2. [`Foreach` loop in java](https://www.scaler.com/topics/for-each-loop-in-java/)
 
-3. [JavaScript Number](https://www.scaler.com/topics/javascript-number/)
+3. [JavaScript `Number`](https://www.scaler.com/topics/javascript-number/)
 
 4. [Client-side Vs Server-side scripting](https://www.scaler.com/topics/client-side-scripting-and-server-side-scripting/)
 
@@ -19,13 +19,13 @@
 
 8. [Logical Operators in JavaScript](https://www.scaler.com/topics/javascript/logical-operators-in-javascript/)
 
-9. [JavaScript Array](https://www.scaler.com/topics/javascript/javascript-array/)
+9. [JavaScript `Array`](https://www.scaler.com/topics/javascript/javascript-array/)
 
-10. [Boolean Expressions in JavaScript](https://www.scaler.com/topics/boolean-in-javascript/)
+10. [`Boolean` Expressions in JavaScript](https://www.scaler.com/topics/boolean-in-javascript/)
 
-11. [Console in JavaScript](https://www.scaler.com/topics/javascript/javascript-console/)
+11. [`Console` in JavaScript](https://www.scaler.com/topics/javascript/javascript-console/)
 
-12. [charAt() in JavaScript ](https://www.scaler.com/topics/charat-in-javascript/)
+12. [`charAt()` in JavaScript ](https://www.scaler.com/topics/charat-in-javascript/)
 
 13. [Asynchronous JavaScript](https://www.scaler.com/topics/javascript/asynchronous-javascript/)
 
@@ -35,8 +35,8 @@
 
 16. [How to Choose the Correct HTML Tag to Make a Text Italic?](https://www.scaler.com/topics/choose-the-correct-html-tag-to-make-a-text-italic/)
 
-17. [Strings in Java](https://www.scaler.com/topics/java/string-in-java/)
+17. [`Strings` in Java](https://www.scaler.com/topics/java/string-in-java/)
 
 18. [`<label>` Tag in HTML](https://www.scaler.com/topics/labelr-tag-in-html/)
 
-19. [Tuple in DBMS](https://www.scaler.com/topics/tuple-in-dbms/)
+19. [`Tuple` in DBMS](https://www.scaler.com/topics/tuple-in-dbms/)
