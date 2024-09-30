@@ -2,8 +2,7 @@
 
 **Note:** Click on any article to open it on Scaler Topics. Enjoy Reading.
 
-
-1. [Install Nodejs](https://www.scaler.com/topics/install-node-js/)
+1. [Type coercion in JavaScript](https://www.scaler.com/topics/type-coercion-javascript/)
 
 2. [`Foreach` loop in java](https://www.scaler.com/topics/for-each-loop-in-java/)
 
@@ -15,7 +14,7 @@
 
 6. [Java clean code](https://www.scaler.com/topics/java/java-clean-code/)
 
-7. [Type coercion in JavaScript](https://www.scaler.com/topics/type-coercion-javascript/)
+7. [`Tuple` in DBMS](https://www.scaler.com/topics/tuple-in-dbms/)
 
 8. [Logical Operators in JavaScript](https://www.scaler.com/topics/javascript/logical-operators-in-javascript/)
 
@@ -39,4 +38,3 @@
 
 18. [`<label>` Tag in HTML](https://www.scaler.com/topics/labelr-tag-in-html/)
 
-19. [`Tuple` in DBMS](https://www.scaler.com/topics/tuple-in-dbms/)
